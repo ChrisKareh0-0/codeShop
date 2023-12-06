@@ -1,0 +1,12 @@
+{
+  "name": "BuyCodev2",
+  "displayName": "BuyCode",
+  "expo":{
+    "plugins": [
+      "expo-barcode-scanner",
+      {
+        "cameraPermission": "Allow BuyCode to access camera"
+      }
+    ]
+  }
+}

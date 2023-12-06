@@ -1,0 +1,16 @@
+export const colors = {
+  black: '#000000',
+  white: 'white',
+  primary_color: '#008eff',
+  dark_grey: '#515252',
+  super_light_grey: '#f4f4f4',
+  light_grey: '#bbbbbb',
+  grey: '#dadbda',
+  greyy: 'grey',
+  whitegrey: '#EFEFF4',
+  textcolor: '#b4acac',
+  customcolor: '#e3e3e3',
+  yellow: 'yellow',
+  red: 'red',
+  blue: '#008dfe',
+};
